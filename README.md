@@ -16,10 +16,10 @@
 
 ### 🛠️ Stack
 
-**Back-end** : Go (Gin) · PHP (Symfony, Laravel) · Java · Python · C/C++
-**Front-end** : React · Angular · Vue.js · TypeScript / JavaScript
-**Données** : PostgreSQL · Supabase
-**Outils** : Git · GitHub Actions · GitLab · Claude Code · GitHub Copilot
+- **Back-end** : Go (Gin) · PHP (Symfony, Laravel) · Java · Python · C/C++
+- **Front-end** : React · Angular · Vue.js · TypeScript / JavaScript
+- **Données** : PostgreSQL · Supabase
+- **Outils** : Git · GitHub Actions · GitLab · Claude Code · GitHub Copilot
 
 ### 📫 Me contacter
 
